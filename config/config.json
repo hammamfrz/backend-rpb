@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "itc",
+    "password": "itcnihbos",
+    "database": "rpb",
+    "host": "188.166.204.247",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "itc",
+    "password": "itcnihbos",
+    "database": "rpb",
+    "host": "188.166.204.247",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "itc",
+    "password": "itcnihbos",
+    "database": "rpb",
+    "host": "188.166.204.247",
+    "dialect": "mysql"
+  }
+}
